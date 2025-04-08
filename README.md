@@ -34,9 +34,3 @@ I enjoy learning, exploring new tools, and creating productive, innovative, and 
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 
-
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=MarianoRama&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MarianoRama)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=MarianoRama&theme=material-palenight)](https://github.com/MarianoRama)
-</div>
